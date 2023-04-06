@@ -1,3 +1,7 @@
+https://docs.google.com/spreadsheets/d/1mMhsC1p-c22ubYCuoAGwg92GF0Bigvyfrp1v0k9PW6M/edit#gid=0
+
+https://sheet.best/admin
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
